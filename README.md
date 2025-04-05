@@ -11,8 +11,9 @@
 
 ## Outcomes 🎉
 
-By the end of this module, you’ll be skilled in managing files efficiently in Python, ensuring error-free code that gracefully handles unexpected issues. Mastering files and exception handling will allow you to build ** strong, robust applications! **
+By the end of this module, you’ll be skilled in managing files efficiently in Python, ensuring error-free code that gracefully handles unexpected issues. Mastering files and exception handling will allow you to build 
+**strong, robust applications!**
 
-## **How to submit the Assignment**
+## How to submit the Assignment
 
 Create your own GitHub repository and submit it. 
