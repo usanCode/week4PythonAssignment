@@ -10,3 +10,5 @@ with open("week4PythonAssignment/essai.txt", "r") as file:
 with open("result.txt", "w") as file: 
     file.write("My name is Usanase.")
     file.write("I am happy to be here")
+
+# Error Handling Lab 🧪: Ask the user for a filename and handle errors if it doesn’t exist or can’t be read.
